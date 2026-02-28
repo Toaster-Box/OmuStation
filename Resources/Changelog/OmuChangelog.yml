@@ -2268,3 +2268,15 @@ Entries:
         durathread. i am NOT sorry.
   id: 285
   time: '2026-02-28T16:02:12.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: IPCs bleed oil, ported oil packs from DV. Ask for them at science!
+    - type: Add
+      message: IPC synth lizard markings from DV
+    - type: Tweak
+      message: >-
+        IPCs are no longer immune to pressure in space. They do take less
+        damage, however..
+  id: 286
+  time: '2026-02-28T16:02:38.0000000+00:00'
