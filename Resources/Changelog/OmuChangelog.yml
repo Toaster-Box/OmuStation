@@ -2386,3 +2386,9 @@ Entries:
       message: Avali voices for Avalis and Harpies!
   id: 298
   time: '2026-03-07T15:02:16.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: 'Fixed Plastitanium windows not linking to adjacent walls. '
+  id: 299
+  time: '2026-03-07T17:32:48.0000000+00:00'
