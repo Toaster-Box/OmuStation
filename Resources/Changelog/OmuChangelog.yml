@@ -2414,3 +2414,9 @@ Entries:
       message: PTech now dispenses syndie PDA and headset when emagged
   id: 302
   time: '2026-03-07T17:40:28.0000000+00:00'
+- author: Giltsmith
+  changes:
+    - type: Add
+      message: Added a moproach to animals loadout category with jani time req.
+  id: 303
+  time: '2026-03-07T17:40:53.0000000+00:00'
