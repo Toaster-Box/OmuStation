@@ -2520,3 +2520,9 @@ Entries:
       message: Xelthia gets the cool avali survival kit too
   id: 317
   time: '2026-03-10T02:46:06.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Rust walkers now get night vision.
+  id: 318
+  time: '2026-03-10T08:48:25.0000000+00:00'
