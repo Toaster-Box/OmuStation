@@ -2620,3 +2620,9 @@ Entries:
       message: IdiotVibes' Glory to Cardonia artwork now in lobby art rotation!
   id: 332
   time: '2026-03-16T17:46:29.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed CC modsuits displaying an error when a vulp was wearing them
+  id: 333
+  time: '2026-03-17T05:51:46.0000000+00:00'
