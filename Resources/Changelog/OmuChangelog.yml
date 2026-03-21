@@ -2740,3 +2740,9 @@ Entries:
       message: AI now has access to more devices (namely lathes and gas pumps)
   id: 348
   time: '2026-03-21T21:07:51.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: Detectives can only pick the inspector or terminus in their loadout now.
+  id: 349
+  time: '2026-03-21T21:11:31.0000000+00:00'
