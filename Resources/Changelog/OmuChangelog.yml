@@ -2857,3 +2857,9 @@ Entries:
       message: Atomic Precision only dna scrambles at 25u now. It also adds ethanol now
   id: 364
   time: '2026-03-22T21:50:08.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Added a new job to security, the Sergeant
+  id: 365
+  time: '2026-03-22T21:52:56.0000000+00:00'
