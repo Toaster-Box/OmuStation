@@ -59,7 +59,7 @@
   components:
     - type: Sprite
       sprite: _Trauma/Clothing/Hands/Gloves/gorilla.rsi
-    - type: Insulated
+#    - type: Insulated # Omu - make the hos cry a bit more
     - type: Fiber
       fiberMaterial: fibers-insulative
     - type: Armor
