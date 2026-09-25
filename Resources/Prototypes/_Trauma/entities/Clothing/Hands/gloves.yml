@@ -10,14 +10,13 @@
       guides:
         - Tackle
     - type: MartialArtBlocked # Omu - fuck using arts and this
-      form: CorporateJudo
-      form: CloseQuartersCombat
-      form: SleepingCarp
-      from: Capoeira
-      form: KungFuDragon
-      form: Ninjutsu
-      form: HellRip
-      staminaDmgBlock: True
+      form: [CorporateJudo,
+       CloseQuartersCombat,
+       SleepingCarp,
+       Capoeira,
+       KungFuDragon,
+       Ninjutsu,
+       HellRip]
 
 - type: entity
   parent: [BaseGlovesTackle, BaseSecurityContraband]
@@ -69,11 +68,11 @@
           Slash: 0.9
           Piercing: 0.9
           Shock: 0.75
-    - type: TackleModifier
-      staminaCostMultiplier: 1.2
-      knockdownTimeMultiplier: 1.25
-      rangeMultiplier: 1.65
-      skillMod: 3
+    - type: TackleModifier # Omu - tweak these values a bit
+      staminaCostMultiplier: 1.5
+      knockdownTimeMultiplier: 1.15
+      rangeMultiplier: 1
+      skillMod: 1.5
 
 - type: entity
   parent: [BaseSyndicateContraband, ClothingHandsGlovesGorilla]
@@ -133,13 +132,13 @@
             color: "#0089EF"
     - type: Fiber
       fiberMaterial: fibers-blue
-    - type: TackleModifier
+    - type: TackleModifier # Omu - some changes here too
       staminaCostMultiplier: 0.3
-      knockdownTimeMultiplier: 0.5
+      knockdownTimeMultiplier: 0.25
       rangeMultiplier: 1.5
       speedMultiplier: 0.65
       minDistance: 2
-      skillMod: -2
+      skillMod: -4
 
 - type: entity
   parent: [BaseGlovesTackle, BaseMinorContraband]
