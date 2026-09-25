@@ -9,9 +9,16 @@
     - type: GuideHelp
       guides:
         - Tackle
-    - type: MartialArtBlocked # Omu
+    - type: MartialArtBlocked # Omu - fuck using arts and this
       form: CorporateJudo
-    
+      form: CloseQuartersCombat
+      form: SleepingCarp
+      from: Capoeira
+      form: KungFuDragon
+      form: Ninjutsu
+      form: HellRip
+      staminaDmgBlock: True
+
 - type: entity
   parent: [BaseGlovesTackle, BaseSecurityContraband]
   id: ClothingHandsGlovesSecurity
